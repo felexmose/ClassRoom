@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testerMethodenÅrstid", "te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestStudentContructor", "UnitTestStudentContructor\UnitTestStudentContructor.csproj", "{03054124-ADB6-4D27-87CD-734CADCB6861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestÅrstidMethodExeption", "UnitTestÅrstidMethodExeption\UnitTestÅrstidMethodExeption.csproj", "{2BA3879A-C281-4D49-A996-8FC4931DF99B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{03054124-ADB6-4D27-87CD-734CADCB6861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03054124-ADB6-4D27-87CD-734CADCB6861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03054124-ADB6-4D27-87CD-734CADCB6861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA3879A-C281-4D49-A996-8FC4931DF99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA3879A-C281-4D49-A996-8FC4931DF99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA3879A-C281-4D49-A996-8FC4931DF99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA3879A-C281-4D49-A996-8FC4931DF99B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
